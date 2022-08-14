@@ -26,12 +26,20 @@
 
 body{
     background-color: lightgrey;
+    margin-bottom: 5%;
 }
 
 #main_box {
     background-color: white;
     position: relative;
-    top: 10%;
+    margin-top: 5%;
+    padding: 5%;
+}
+
+#vis_box {
+    background-color: white;
+    position: relative;
+    margin-top: 10%;
     padding: 5%;
 }
 
